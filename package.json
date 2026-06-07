@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "scripts":{
         "test":"echo tested successfully",
-        "build":"Build successfully"
+        "build":"echo Build successfully"
     }
 }
